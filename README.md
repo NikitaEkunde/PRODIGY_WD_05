@@ -1,1 +1,2 @@
-# PRODIGY_WD_05
+# WHEATHER APP
+# Prodigy Internship Task 05
